@@ -1,0 +1,5 @@
+Contact asset: email addresses.
+john.doe_10388@uniquedomain_10388.com
+info_10388@uniquedomain_10388.com
+first.last_10388@sub.uniquedomain_10388.com
+Unique ID: 10388
