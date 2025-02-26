@@ -1,0 +1,4 @@
+Reference asset: company domain reference.
+Domain: randomdomain_21159.com
+Subdomain: dev.randomdomain_21159.com
+Unique ID: 21159
