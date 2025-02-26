@@ -1,0 +1,4 @@
+Mobile asset: mobile app package reference.
+Package: com.randomapp_9272.app
+Identifier: iOSApp_9272
+Unique ID: 9272
